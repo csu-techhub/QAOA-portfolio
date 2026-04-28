@@ -10,4 +10,4 @@ This repository contains Google Colab notebooks and code examples for learning a
 
 Open the notebook in Google Colab and run the cells step by step.
 
-[Open in Colab](https://colab.research.google.com/github/csu-techhub/QAOA-portfolio/blob/main/notebooks/qaoa_demo.ipynb)
+[Open in Colab](https://colab.research.google.com/github/csu-techhub/QAOA-portfolio/blob/main/notebooks/ai-sci3-portfolio.ipynb)
